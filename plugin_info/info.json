@@ -1,8 +1,8 @@
 {
-  "id" : "pool",
-  "name" : "Piscine",
+  "id" : "poolGnarco",
+  "name" : "PiscineGnarco",
   "licence" : "AGPL",
-  "author" : "Stéphane Cadinot",
+  "author" : "Stéphane Cadinot / Alexandre Cognard",
   "require" : "3.3",
   "category" : "wellness",
   "display" : "panel",
